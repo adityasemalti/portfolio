@@ -82,7 +82,7 @@ const Contact = () => {
           <a href="https://github.com/adityasemalti" target="_blank" rel="noopener noreferrer"><FaGithub size={40} /></a>
           <a href="https://www.linkedin.com/in/aditya-semalti-199264257" target="_blank" rel="noopener noreferrer"><FaLinkedin size={40} /></a>
           <a
-            href="https://wa.me/919876543210?text=Hi%20Aditya,%20I%20saw%20your%20portfolio%20and%20wanted%20to%20connect"
+            href="https://wa.me/917251034703?text=Hi%20Aditya,%20I%20saw%20your%20portfolio%20and%20wanted%20to%20connect"
             target="_blank"
             rel="noopener noreferrer"
           >
